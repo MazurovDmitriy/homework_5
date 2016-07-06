@@ -1,0 +1,90 @@
+* { margin: 0; padding: 0; }
+html {
+		height: 100%;
+}
+body {
+	padding: 50px;
+	background:#ccc;
+}
+table {
+	background: #000;
+	border-spacing: 10px;
+}
+table td{
+	background: #fff;
+}
+.white {
+	background: url();
+}
+.width-col-1 {
+	width: 47px;
+}
+
+.width-col-2 {
+	width: 69px;
+}
+.width-col-3 {
+	width: 72px;
+}
+.width-col-4 {
+	width: 128px;
+}
+.width-col-5 {
+	width: 85px;
+}
+.width-col-6 {
+	width: 80px;
+}
+.width-col-1_2 {
+	width: 116px;
+}
+.width-col-2_3{
+	width: 141px;
+}
+.width-col-2_3_4 {
+	width: 269px;
+}
+.width-col-3_4 {
+	width: 135px;
+}
+.width-col-5_6 {
+	width: 165px;
+}
+.height-row-1 {
+	height: 47px;
+}
+.height-row-2 {
+	height: 130px;
+}
+.height-row-3 {
+	height: 129px;
+}
+.height-row-4 {
+	height: 60px;
+}
+.height-row-5 {
+	height: 57px;
+}
+.height-row-6 {
+	height: 30px;
+}
+.height-row-7 {
+	height: 31px;
+}
+.yellow, .red, .black, .blue {
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+.yellow {
+	background-image: url(img/yellow.jpg);
+}
+.red {
+	background-image: url(img/red.jpg);
+}
+.black {
+	background-image: url(img/black.jpg);
+}
+.blue {
+	background-image: url(img/blue.jpg);
+}
